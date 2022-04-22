@@ -1,11 +1,3 @@
-EMOJI
-
-:heart:
-:+1:
-:smile:
-:sparkles:
-:tada:
-
 ORDERED LIST
 1. Item 1
 2. Item 2
